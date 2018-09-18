@@ -22,9 +22,10 @@ table 		{
 	color: black;
 }
 
+
 td			{
 	border: 2px solid black;
-	padding: 3.5px;
+	padding: 6px;
 	background-color: lightyellow;
 }
 
