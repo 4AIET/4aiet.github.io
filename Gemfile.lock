@@ -220,9 +220,10 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  ffi (= 1.9.18)
   github-pages
   jekyll-feed (~> 0.6)
   tzinfo-data
 
 BUNDLED WITH
-   1.15.4
+   1.16.3
