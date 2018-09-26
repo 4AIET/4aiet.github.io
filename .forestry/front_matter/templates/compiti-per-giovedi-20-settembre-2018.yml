@@ -28,3 +28,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- _posts/compiti-per-giovedì-27-settembre-2018.md
